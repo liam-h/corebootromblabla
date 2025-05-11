@@ -1,5 +1,18 @@
-0.0.0.0 redd.it
-0.0.0.0 reddit.com
-0.0.0.0 reddit.map.fastly.net
-0.0.0.0 redditmedia.com
-0.0.0.0 redditstatic.com
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+
+127.0.0.1 redd.it
+127.0.0.1 reddit.com
+127.0.0.1 reddit.map.fastly.net
+127.0.0.1 redditmedia.com
+127.0.0.1 redditstatic.com
